@@ -1,0 +1,45 @@
+.form_reserved select{
+    width: 100px;
+}
+.existing_status select{
+    width: 50px;
+}
+.existing_status .select2-container--bootstrap .select2-selection.form-control{
+    height: 29px;
+    padding: 4px 10px;
+}
+.Temperature{
+    padding-left: 15px;
+}
+.Temperature input{
+   margin-right: 10px;
+}
+.Temperature .temp_rang{
+    margin: 10px 10px 10px 0;
+}
+.Temperature select{
+    width: 50px;
+}
+#displayOptions  .delete-btn:hover {
+    color: #fff;
+    background-color: #c82333;
+    border-color: #c82333;
+}
+
+#displayOptions .delete-btn {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #fff;
+}
+#displayOptions .btn-primary {
+    border-color: #fff;
+    color: #fff;
+}
+.img_hose{
+    width: 70px;
+}
+
+.display-ruby {
+    display: flex;
+    align-items: center;
+}
